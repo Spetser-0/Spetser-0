@@ -2,29 +2,29 @@
 
 <!-- Banner -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmdjmt698-create/Spetser-0/main/dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahmdjmt698-create/Spetser-0/main/light.svg">
-  <img alt="Ahmed Gomaa" src="https://raw.githubusercontent.com/ahmdjmt698-create/Spetser-0/main/light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Spetser-0/Spetser-0/main/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Spetser-0/Spetser-0/main/light.svg">
+  <img alt="Ahmed Gomaa" src="https://raw.githubusercontent.com/Spetser-0/Spetser-0/main/light.svg">
 </picture>
 
 <br/>
 
 <!-- Streak Stats -->
-<img width="100%" src="https://streak-stats.demolab.com/?user=ahmdjmt698-create&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180" alt="streak" />
+<img width="100%" src="https://streak-stats.demolab.com/?user=Spetser-0&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180" alt="streak" />
 
 <br/>
 
 <!-- GitHub Stats & Top Languages -->
-<img width="49%" src="https://github-readme-stats.shion.dev/api?username=ahmdjmt698-create&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="stats" />
-<img width="49%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=ahmdjmt698-create&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="top langs" />
+<img width="49%" src="https://github-readme-stats.shion.dev/api?username=Spetser-0&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="stats" />
+<img width="49%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Spetser-0&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="top langs" />
 
 <br/>
 
 <!-- Snake Animation -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmdjmt698-create/Spetser-0/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahmdjmt698-create/Spetser-0/output/github-snake.svg">
-  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/ahmdjmt698-create/Spetser-0/output/github-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Spetser-0/Spetser-0/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Spetser-0/Spetser-0/output/github-snake.svg">
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/Spetser-0/Spetser-0/output/github-snake.svg">
 </picture>
 
 <br/>
@@ -64,7 +64,7 @@
 <!-- Visitor Count -->
 <div align="right">
 <a href="https://visitcount.itsvg.in">
-  <img src="https://komarev.com/ghpvc/?username=ahmdjmt698-create&icon=0&color=0" alt="visitor count" />
+  <img src="https://komarev.com/ghpvc/?username=Spetser-0&icon=0&color=0" alt="visitor count" />
 </a>
 </div>
 
